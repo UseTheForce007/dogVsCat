@@ -1,0 +1,1 @@
+Dog vs Cat classification has been done in this repo. There are 3 total branches. The master branch contains the base run, the transfer learning contains the addition of that and the GPU branch has GPU acceleration added.
